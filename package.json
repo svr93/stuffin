@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/svr93/stuffin/issues"
   },
-  "homepage": "https://github.com/svr93/stuffin"
+  "homepage": "https://github.com/svr93/stuffin",
+  "dependencies": {
+    "node-static": "^0.7.7"
+  }
 }
