@@ -18,5 +18,8 @@
   "homepage": "https://github.com/svr93/stuffin",
   "dependencies": {
     "node-static": "^0.7.7"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0"
   }
 }
